@@ -1,0 +1,90 @@
+[
+    {
+        "country": "HR",
+        "event_name": "In Music Festival",
+        "event_location": "Zagreb",
+        "event_time": [
+            "july"
+        ],
+        "keywords": [
+            "in music festival",
+            "zagreb festival",
+            "jarun festival",
+            "hrvatska festival",
+            "croatia festival"
+        ]
+    },
+    {
+        "country": "HR",
+        "event_name": "Hideout Festival",
+        "event_location": "Pag",
+        "event_time": [
+            "july",
+            "august"
+        ],
+        "keywords": [
+            "hideout festival",
+            "pag hrvatska",
+            "hrvatska festival",
+            "croatia festival"
+        ]
+    },
+    {
+        "country": "HR",
+        "event_name": "Ultra Europe Festival",
+        "event_location": "Split",
+        "event_time": [
+            "august"
+        ],
+        "keywords": [
+            "ultra europe festival",
+            "split festival",
+            "hrvatska festival",
+            "croatia festival"
+        ]
+    },
+    {
+        "country": "HR",
+        "event_name": "Croatia Summer Salsa Festival",
+        "event_location": "Rovinj",
+        "event_time": [
+            "july"
+        ],
+        "keywords": [
+            "croatia summer salsa festival",
+            "rovinj festival",
+            "rovinj hrvatska",
+            "hrvatska festival",
+            "croatia festival"
+        ]
+    },
+    {
+        "country": "HR",
+        "event_name": "Seasplash Festival",
+        "event_location": "Pula",
+        "event_time": [
+            "august"
+        ],
+        "keywords": [
+            "seasplash festival",
+            "pula festival",
+            "punta christo",
+            "croatia festival"
+        ]
+    },
+    {
+        "country": "SR",
+        "event_name": "Exit Festival",
+        "event_location": "Novi Sad",
+        "event_time": [
+            "july"
+        ],
+        "keywords": [
+            "exit srbija",
+            "novi sad festival",
+            "exit festival",
+            "exit serbia",
+            "croatia festival"
+        ]
+    }
+]
