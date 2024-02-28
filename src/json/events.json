@@ -2,9 +2,10 @@
     {
         "country": "HR",
         "event_name": "In Music Festival",
+        "event_type": "Musical Festival",
         "event_location": "Zagreb",
         "event_time": [
-            "july"
+            "june"
         ],
         "keywords": [
             "in music festival",
@@ -17,6 +18,7 @@
     {
         "country": "HR",
         "event_name": "Hideout Festival",
+        "event_type": "Musical Festival",
         "event_location": "Pag",
         "event_time": [
             "july",
@@ -32,6 +34,7 @@
     {
         "country": "HR",
         "event_name": "Ultra Europe Festival",
+        "event_type": "Musical Festival",
         "event_location": "Split",
         "event_time": [
             "august"
@@ -46,6 +49,7 @@
     {
         "country": "HR",
         "event_name": "Croatia Summer Salsa Festival",
+        "event_type": "Musical Festival",
         "event_location": "Rovinj",
         "event_time": [
             "july"
@@ -61,6 +65,7 @@
     {
         "country": "HR",
         "event_name": "Seasplash Festival",
+        "event_type": "Musical Festival",
         "event_location": "Pula",
         "event_time": [
             "august"
@@ -75,6 +80,7 @@
     {
         "country": "SR",
         "event_name": "Exit Festival",
+        "event_type": "Musical Festival",
         "event_location": "Novi Sad",
         "event_time": [
             "july"
