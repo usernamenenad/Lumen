@@ -1,2 +1,5 @@
 .obsidian/
 .venv/
+
+*.lock
+*.toml
