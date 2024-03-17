@@ -1,90 +1,88 @@
 [
-    {
-        "country": "US",
-        "queries": [
-            {
-                "language": "en",
-                "values": [
-                    "vacation croatia",
-                    "summer in croatia",
-                    "hotels in split",
-                    "hotels in dubrovnik",
-                    "airport zagreb",
-                    "airport zagreb",
-                    "croatia summer",
-                    "croatia beaches",
-                    "croatia national parks",
-                    "croatia cuisine",
-                    "croatia nightlife",
-                    "croatia luxury resorts",
-                    "croatia travel restrictions",
-                    "croatia transport",
-                    "zagreb airport"
-                ]
-            }
+  {
+    "country": "US",
+    "queries": [
+      {
+        "language": "en",
+        "values": [
+          "vacation croatia",
+          "summer in croatia",
+          "hotels in split",
+          "hotels in dubrovnik",
+          "airport zagreb",
+          "airport zagreb",
+          "croatia summer",
+          "croatia beaches",
+          "croatia national parks",
+          "croatia cuisine",
+          "croatia nightlife",
+          "croatia luxury resorts",
+          "croatia travel restrictions",
+          "croatia transport",
+          "zagreb airport"
         ]
-    },
-    {
-        "country": "GB",
-        "queries": [
-            {
-                "language": "en",
-                "values": [
-                    "vacation croatia",
-                    "summer in croatia",
-                    "hotels in split",
-                    "hotels in dubrovnik",
-                    "airport zagreb",
-                    "croatia summer",
-                    "croatia beaches",
-                    "croatia national parks",
-                    "croatia cuisine",
-                    "croatia nightlife",
-                    "croatia travel restrictions",
-                    "croatia weather forecast",
-                    "croatia transport",
-                    "zagreb airport"
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "queries": [
+      {
+        "language": "en",
+        "values": [
+          "vacation croatia",
+          "summer in croatia",
+          "hotels in split",
+          "hotels in dubrovnik",
+          "airport zagreb",
+          "croatia summer",
+          "croatia beaches",
+          "croatia national parks",
+          "croatia cuisine",
+          "croatia nightlife",
+          "croatia travel restrictions",
+          "croatia weather forecast",
+          "croatia transport",
+          "zagreb airport"
         ]
-    },
-    {
-        "country": "RS",
-        "queries": [
-            {
-                "language": "sr",
-                "values": [
-                    "letovanje hrvatska"
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "country": "RS",
+    "queries": [
+      {
+        "language": "sr",
+        "values": ["letovanje hrvatska"]
+      }
+    ]
+  },
+  {
+    "country": "DE",
+    "queries": [
+      {
+        "language": "de",
+        "values": [
+          "urlaub kroatien",
+          "hotels kroatien",
+          "sommer in kroatien",
+          "dubrovnik stadt",
+          "hotels in dubrovnik",
+          "split stadt",
+          "familienurlaub kroatien",
+          "wettervorhersage kroatien",
+          "flughafen zagreb"
         ]
-    },
-    {
-        "country": "DE",
-        "queries": [
-            {
-                "language": "de",
-                "values": [
-                    "urlaub kroatien",
-                    "hotels kroatien",
-                    "sommer in kroatien",
-                    "dubrovnik stadt",
-                    "hotels in dubrovnik",
-                    "split stadt",
-                    "familienurlaub kroatien",
-                    "wettervorhersage kroatien",
-                    "flughafen zagreb"
-                ]
-            }
-        ]
-    },
-    {
-        "country": "PT",
-        "queries": [
-            {
-                "language": "pt",
-                "values": []
-            }
-        ]
-    }
+      }
+    ]
+  },
+  {
+    "country": "PT",
+    "queries": [
+      {
+        "language": "pt",
+        "values": []
+      }
+    ]
+  }
 ]
