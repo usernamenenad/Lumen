@@ -1,46 +1,107 @@
 [
   {
-    "country": "HR",
+    "country": ["HR", "SI"],
     "name": "Uskrs",
     "type": ["cultural holiday"],
     "location": null,
     "time": ["Mar", "Apr"],
     "keywords": [],
-    "weight": 0
+    "weight": 0,
+    "visits": 0
   },
   {
-    "country": "SI",
-    "name": "Uskrs",
-    "type": ["cultural holiday"],
-    "location": null,
-    "time": ["Mar", "Apr"],
-    "keywords": [],
-    "weight": 0
-  },
-  {
-    "country": "HR",
+    "country": ["HR", "SI"],
     "name": "Božić",
     "type": ["cultural holiday"],
     "location": null,
     "time": ["Dec", "Jan"],
     "keywords": [],
-    "weight": 0
-  },
-  {
-    "country": "SI",
-    "name": "Božić",
-    "type": ["cultural holiday"],
-    "location": null,
-    "time": ["Dec", "Jan"],
-    "keywords": [],
-    "weight": 0
+    "weight": 0,
+    "visits": 0
   },
   {
     "country": "HR",
     "name": "In Music Festival",
     "type": ["music festival"],
     "location": "Zagreb",
-    "time": ["Jun"],
+    "time": [
+      {
+        "start_date": "2006-07-04",
+        "finish_date": "2006-07-06"
+      },
+      {
+        "start_date": "2007-08-27",
+        "finish_date": "2007-08-28"
+      },
+      {
+        "start_date": "2008-06-03",
+        "finish_date": "2008-06-04"
+      },
+      {
+        "start_date": "2009-06-24",
+        "finish_date": "2009-06-25"
+      },
+      {
+        "start_date": "2010-06-21",
+        "finish_date": "2010-06-23"
+      },
+      {
+        "start_date": "2011-06-21",
+        "finish_date": "2011-06-22"
+      },
+      {
+        "start_date": "2012-06-28",
+        "finish_date": "2012-06-30"
+      },
+      {
+        "start_date": "2013-06-24",
+        "finish_date": "2013-06-26"
+      },
+      {
+        "start_date": "2014-06-23",
+        "finish_date": "2014-06-25"
+      },
+      {
+        "start_date": "2015-06-22",
+        "finish_date": "2015-06-25"
+      },
+      {
+        "start_date": "2016-06-20",
+        "finish_date": "2016-06-22"
+      },
+      {
+        "start_date": "2017-06-19",
+        "finish_date": "2017-06-21"
+      },
+      {
+        "start_date": "2018-06-25",
+        "finish_date": "2018-06-27"
+      },
+      {
+        "start_date": "2019-06-24",
+        "finish_date": "2019-06-26"
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": "2024-06-24",
+        "finish_date": "2024-06-26"
+      }
+    ],
     "keywords": [
       "in music festival",
       "zagreb festival",
@@ -55,7 +116,64 @@
     "name": "Hideout Festival",
     "type": ["music festival"],
     "location": "Pag",
-    "time": ["Jul", "Aug"],
+    "time": [
+      {
+        "start_date": "2011-07-01",
+        "finish_date": "2011-07-03"
+      },
+      {
+        "start_date": "2012-06-29",
+        "finish_date": "2012-07-01"
+      },
+      {
+        "start_date": "2013-07-03",
+        "finish_date": "2013-07-05"
+      },
+      {
+        "start_date": "2014-06-30",
+        "finish_date": "2014-07-03"
+      },
+      {
+        "start_date": "2015-06-28",
+        "finish_date": "2015-06-02"
+      },
+      {
+        "start_date": "2016-06-26",
+        "finish_date": "2016-06-30"
+      },
+      {
+        "start_date": "2017-06-26",
+        "finish_date": "2017-06-30"
+      },
+      {
+        "start_date": "2018-06-25",
+        "finish_date": "2018-06-29"
+      },
+      {
+        "start_date": "2019-07-01",
+        "finish_date": "2019-07-05"
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": "2021-09-04",
+        "finish_date": "2021-09-08"
+      },
+      {
+        "start_date": "2022-07-08",
+        "finish_date": "2022-07-10"
+      },
+      {
+        "start_date": "2023-06-25",
+        "finish_date": "2023-06-29"
+      },
+      {
+        "start_date": "2024-06-23",
+        "finish_date": "2024-06-27"
+      }
+    ],
     "keywords": [
       "hideout festival",
       "pag hrvatska",
@@ -69,7 +187,56 @@
     "name": "Ultra Europe Festival",
     "type": ["music festival"],
     "location": "Split",
-    "time": ["Aug"],
+    "time": [
+      {
+        "start_date": "2013-07-12",
+        "finish_date": "2013-07-13"
+      },
+      {
+        "start_date": "2014-07-11",
+        "finish_date": "2014-07-13"
+      },
+      {
+        "start_date": "2015-07-09",
+        "finish_date": "2015-07-15"
+      },
+      {
+        "start_date": "2016-07-14",
+        "finish_date": "2016-07-20"
+      },
+      {
+        "start_date": "2017-07-14",
+        "finish_date": "2017-07-16"
+      },
+      {
+        "start_date": "2018-07-05",
+        "finish_date": "2018-07-11"
+      },
+      {
+        "start_date": "2018-07-12",
+        "finish_date": "2018-07-14"
+      },
+      {
+        "start_date": "2019-07-12",
+        "finish_date": "2019-07-14"
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": "2022-07-08",
+        "finish_date": "2022-07-10"
+      },
+      {
+        "start_date": "2023-07-07",
+        "finish_date": "2023-07-09"
+      }
+    ],
     "keywords": [
       "ultra europe festival",
       "split festival",
@@ -84,9 +251,14 @@
   {
     "country": "HR",
     "name": "Croatia Summer Salsa Festival",
-    "type": ["music festival"],
+    "type": ["dance festival", "music festival"],
     "location": "Rovinj",
-    "time": ["Jul"],
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
     "keywords": [
       "croatia summer salsa festival",
       "rovinj festival",
@@ -112,15 +284,66 @@
   },
   {
     "country": "HR",
-    "name": "Vidfest",
-    "type": ["music festival", "cultural festival"],
+    "name": "Dani Svetog Vida",
+    "type": ["cultural holiday"],
     "location": "Rijeka",
-    "time": ["Jun"],
+    "time": [
+      {
+        "start_date": "2010-06-10",
+        "finish_date": "2010-06-19"
+      },
+      {
+        "start_date": "2011-06-10",
+        "finish_date": "2011-06-17"
+      },
+      {
+        "start_date": "2012-06-12",
+        "finish_date": "2012-06-15"
+      },
+      {
+        "start_date": "2013-06-12",
+        "finish_date": "2013-06-15"
+      },
+      {
+        "start_date": "2014-06-12",
+        "finish_date": "2014-06-15"
+      },
+      {
+        "start_date": "2015-06-12",
+        "finish_date": "2015-06-15"
+      },
+      {
+        "start_date": "2016-06-12",
+        "finish_date": "2016-06-15"
+      },
+      {
+        "start_date": "2017-06-11",
+        "finish_date": "2017-06-17"
+      },
+      {
+        "start_date": "2018-06-11",
+        "finish_date": "2018-06-15"
+      },
+      {
+        "start_date": "2019-06-12",
+        "finish_date": "2019-06-15"
+      },
+      {
+        "start_date": "2020-06-15",
+        "finish_date": "2020-06-15"
+      },
+      {
+        "start_date": "2022-06-11",
+        "finish_date": "2022-06-15"
+      },
+      {
+        "start_date": "2023-06-11",
+        "finish_date": "2023-06-16"
+      }
+    ],
     "keywords": [
-      "vidfest rijeka",
-      "rijeka festival",
-      "vidfest hrvatska",
-      "croatia festival",
+      "sveti vid rijeka",
+      "dani svetog vida rijeka",
       "festival duhovne muzike",
       "festival duhovne glazbe"
     ],
@@ -131,7 +354,88 @@
     "name": "Riječke ljetne noći",
     "type": ["music festival", "cultural festival", "theatre festival"],
     "location": "Rijeka",
-    "time": ["Jun", "Jul"],
+    "time": [
+      {
+        "start_date": "2004-06-18",
+        "finish_date": "2004-07-15"
+      },
+      {
+        "start_date": "2005-06-23",
+        "finish_date": "2005-07-26"
+      },
+      {
+        "start_date": "2006-06-29",
+        "finish_date": "2006-07-27"
+      },
+      {
+        "start_date": "2007-06-05",
+        "finish_date": "2007-07-19"
+      },
+      {
+        "start_date": "2008-06-27",
+        "finish_date": "2008-07-27"
+      },
+      {
+        "start_date": "2009-06-30",
+        "finish_date": "2008-07-23"
+      },
+      {
+        "start_date": "2010-06-29",
+        "finish_date": "2010-07-24"
+      },
+      {
+        "start_date": "2011-06-29",
+        "finish_date": "2011-07-27"
+      },
+      {
+        "start_date": "2012-06-19",
+        "finish_date": "2012-07-24"
+      },
+      {
+        "start_date": "2013-06-30",
+        "finish_date": "2013-07-27"
+      },
+      {
+        "start_date": "2014-07-01",
+        "finish_date": "2014-07-24"
+      },
+      {
+        "start_date": "2015-06-18",
+        "finish_date": "2015-07-18"
+      },
+      {
+        "start_date": "2016-07-01",
+        "finish_date": "2016-07-22"
+      },
+      {
+        "start_date": "2017-06-30",
+        "finish_date": "2017-07-21"
+      },
+      {
+        "start_date": "2018-06-04",
+        "finish_date": "2018-07-18"
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      }
+    ],
     "keywords": [
       "rijecke ljetne noći",
       "rijecke letnje noci",
@@ -144,7 +448,80 @@
     "name": "Riječki karneval",
     "type": ["carnival", "music festival", "theatre festival"],
     "location": "Rijeka",
-    "time": ["Jan", "Feb"],
+    "time": [
+      {
+        "start_date": "2007-01-17",
+        "finish_date": "2007-02-20"
+      },
+      {
+        "start_date": "2008-01-17",
+        "finish_date": "2008-02-05"
+      },
+      {
+        "start_date": "2009-01-17",
+        "finish_date": "2009-02-24"
+      },
+      {
+        "start_date": "2010-01-17",
+        "finish_date": "2010-02-16"
+      },
+      {
+        "start_date": "2011-01-17",
+        "finish_date": "2011-02-24"
+      },
+      {
+        "start_date": "2012-02-17",
+        "finish_date": "2012-02-22"
+      },
+      {
+        "start_date": "2013-01-17",
+        "finish_date": "2013-02-13"
+      },
+      {
+        "start_date": "2014-01-17",
+        "finish_date": "2014-02-05"
+      },
+      {
+        "start_date": "2015-01-17",
+        "finish_date": "2014-02-18"
+      },
+      {
+        "start_date": "2016-01-17",
+        "finish_date": "2016-02-07"
+      },
+      {
+        "start_date": "2017-01-20",
+        "finish_date": "2017-02-26"
+      },
+      {
+        "start_date": "2018-01-17",
+        "finish_date": "2018-02-14"
+      },
+      {
+        "start_date": "2019-01-17",
+        "finish_date": "2019-02-06"
+      },
+      {
+        "start_date": "2020-01-17",
+        "finish_date": "2020-02-26"
+      },
+      {
+        "start_date": "2021-01-17",
+        "finish_date": "2021-02-14"
+      },
+      {
+        "start_date": "2022-01-17",
+        "finish_date": "2022-02-22"
+      },
+      {
+        "start_date": "2023-01-17",
+        "finish_date": "2023-02-19"
+      },
+      {
+        "start_date": "2024-01-17",
+        "finish_date": "2024-02-14"
+      }
+    ],
     "keywords": [
       "rijecki karneval",
       "rijeka carnival",
@@ -205,7 +582,7 @@
   },
   {
     "country": "HR",
-    "name": "Jazz Time",
+    "name": "Jazz time",
     "type": ["music festival"],
     "location": "Rijeka",
     "time": ["May", "Jun"],
