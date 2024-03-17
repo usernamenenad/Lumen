@@ -4,66 +4,72 @@
     "name": "Uskrs",
     "type": ["cultural holiday"],
     "location": null,
-    "time": ["march", "april"],
-    "keywords": []
+    "time": ["Mar", "Apr"],
+    "keywords": [],
+    "weight": 0
   },
   {
     "country": "SI",
     "name": "Uskrs",
     "type": ["cultural holiday"],
     "location": null,
-    "time": ["march", "april"],
-    "keywords": []
+    "time": ["Mar", "Apr"],
+    "keywords": [],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Božić",
     "type": ["cultural holiday"],
     "location": null,
-    "time": ["december", "january"],
-    "keywords": []
+    "time": ["Dec", "Jan"],
+    "keywords": [],
+    "weight": 0
   },
   {
     "country": "SI",
     "name": "Božić",
     "type": ["cultural holiday"],
     "location": null,
-    "time": ["december", "january"],
-    "keywords": []
+    "time": ["Dec", "Jan"],
+    "keywords": [],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "In Music Festival",
     "type": ["music festival"],
     "location": "Zagreb",
-    "time": ["june"],
+    "time": ["Jun"],
     "keywords": [
       "in music festival",
       "zagreb festival",
       "jarun festival",
       "hrvatska festival",
       "croatia festival"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Hideout Festival",
     "type": ["music festival"],
     "location": "Pag",
-    "time": ["july", "august"],
+    "time": ["Jul", "Aug"],
     "keywords": [
       "hideout festival",
       "pag hrvatska",
       "hrvatska festival",
       "croatia festival"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Ultra Europe Festival",
     "type": ["music festival"],
     "location": "Split",
-    "time": ["august"],
+    "time": ["Aug"],
     "keywords": [
       "ultra europe festival",
       "split festival",
@@ -72,41 +78,44 @@
       "electronic festival split",
       "dance festival split",
       "techno festival split"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Croatia Summer Salsa Festival",
     "type": ["music festival"],
     "location": "Rovinj",
-    "time": ["july"],
+    "time": ["Jul"],
     "keywords": [
       "croatia summer salsa festival",
       "rovinj festival",
       "rovinj hrvatska",
       "hrvatska festival",
       "croatia festival"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Seasplash Festival",
     "type": ["music festival"],
     "location": "Pula",
-    "time": ["august"],
+    "time": ["Aug"],
     "keywords": [
       "seasplash festival",
       "pula festival",
       "punta christo",
       "croatia festival"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Vidfest",
     "type": ["music festival", "cultural festival"],
     "location": "Rijeka",
-    "time": ["june"],
+    "time": ["Jun"],
     "keywords": [
       "vidfest rijeka",
       "rijeka festival",
@@ -114,113 +123,122 @@
       "croatia festival",
       "festival duhovne muzike",
       "festival duhovne glazbe"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Riječke ljetne noći",
     "type": ["music festival", "cultural festival", "theatre festival"],
     "location": "Rijeka",
-    "time": ["june", "july"],
+    "time": ["Jun", "Jul"],
     "keywords": [
       "rijecke ljetne noći",
       "rijecke letnje noci",
       "rijeka festival"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Riječki karneval",
     "type": ["carnival", "music festival", "theatre festival"],
     "location": "Rijeka",
-    "time": ["january", "february"],
+    "time": ["Jan", "Feb"],
     "keywords": [
       "rijecki karneval",
       "rijeka carnival",
       "croatia carnival",
       "europe carnival"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Rijeka Advent",
     "type": ["cultural festival"],
     "location": "Rijeka",
-    "time": ["november", "december", "january"],
+    "time": ["Nov", "Dec", "Jan"],
     "keywords": [
       "rijeka advent",
       "croatia new year events",
       "rijeka nova godina",
       "rijeka new year"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "CEZ Moto Championship",
     "type": ["car race"],
     "location": "Rijeka",
-    "time": ["july", "august"],
+    "time": ["Jul", "Aug"],
     "keywords": [
       "rijeka moto championship",
       "rijeka utrke",
       "CEZ car race",
       "rijeka grobnik CEZ car race"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Alpe Adria International Motorcycle Championship",
     "type": ["car race"],
     "location": "Rijeka",
-    "time": ["may"],
+    "time": ["May"],
     "keywords": [
       "rijeka moto championship",
       "rijeka utrke",
       "alpe adria moto championship"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Ljeto na Gradini",
     "type": ["cultural festival", "theatre festival", "music festival"],
     "location": "Rijeka",
-    "time": ["june", "july", "august"],
-    "keywords": ["ljeto na gradini", "rijeka ljeto na gradini"]
+    "time": ["Jun", "Jul", "Aug"],
+    "keywords": ["ljeto na gradini", "rijeka ljeto na gradini"],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Jazz Time",
     "type": ["music festival"],
     "location": "Rijeka",
-    "time": ["may", "june"],
-    "keywords": ["jazz time festival", "jazz time rijeka"]
+    "time": ["May", "Jun"],
+    "keywords": ["jazz time festival", "jazz time rijeka"],
+    "weight": 0
   },
   {
     "country": "HR",
     "name": "Xistance Festival",
     "type": ["music festival"],
     "location": "Novalja",
-    "time": ["july"],
+    "time": ["Jul"],
     "keywords": [
       "xistance festival hrvatska",
       "xistance festival croatia",
       "psytrance festival europe",
       "jadran festivali",
       "adriatic sea xistance festival"
-    ]
+    ],
+    "weight": 0
   },
   {
     "country": "SR",
     "name": "Exit Festival",
     "type": ["music festival"],
     "location": "Novi Sad",
-    "time": ["july"],
+    "time": ["Jul"],
     "keywords": [
       "exit srbija",
       "novi sad festival",
       "exit festival",
-      "exit serbia",
-      "croatia festival"
-    ]
+      "exit serbia"
+    ],
+    "weight": 0
   }
 ]
