@@ -6,8 +6,7 @@
     "location": null,
     "time": ["Mar", "Apr"],
     "keywords": [],
-    "weight": 0,
-    "visits": 0
+    "weight": 0
   },
   {
     "country": ["HR", "SI"],
@@ -16,270 +15,6 @@
     "location": null,
     "time": ["Dec", "Jan"],
     "keywords": [],
-    "weight": 0,
-    "visits": 0
-  },
-  {
-    "country": "HR",
-    "name": "In Music Festival",
-    "type": ["music festival"],
-    "location": "Zagreb",
-    "time": [
-      {
-        "start_date": "2006-07-04",
-        "finish_date": "2006-07-06"
-      },
-      {
-        "start_date": "2007-08-27",
-        "finish_date": "2007-08-28"
-      },
-      {
-        "start_date": "2008-06-03",
-        "finish_date": "2008-06-04"
-      },
-      {
-        "start_date": "2009-06-24",
-        "finish_date": "2009-06-25"
-      },
-      {
-        "start_date": "2010-06-21",
-        "finish_date": "2010-06-23"
-      },
-      {
-        "start_date": "2011-06-21",
-        "finish_date": "2011-06-22"
-      },
-      {
-        "start_date": "2012-06-28",
-        "finish_date": "2012-06-30"
-      },
-      {
-        "start_date": "2013-06-24",
-        "finish_date": "2013-06-26"
-      },
-      {
-        "start_date": "2014-06-23",
-        "finish_date": "2014-06-25"
-      },
-      {
-        "start_date": "2015-06-22",
-        "finish_date": "2015-06-25"
-      },
-      {
-        "start_date": "2016-06-20",
-        "finish_date": "2016-06-22"
-      },
-      {
-        "start_date": "2017-06-19",
-        "finish_date": "2017-06-21"
-      },
-      {
-        "start_date": "2018-06-25",
-        "finish_date": "2018-06-27"
-      },
-      {
-        "start_date": "2019-06-24",
-        "finish_date": "2019-06-26"
-      },
-      {
-        "start_date": null,
-        "finish_date": null
-      },
-      {
-        "start_date": null,
-        "finish_date": null
-      },
-      {
-        "start_date": null,
-        "finish_date": null
-      },
-      {
-        "start_date": null,
-        "finish_date": null
-      },
-      {
-        "start_date": "2024-06-24",
-        "finish_date": "2024-06-26"
-      }
-    ],
-    "keywords": [
-      "in music festival",
-      "zagreb festival",
-      "jarun festival",
-      "hrvatska festival",
-      "croatia festival"
-    ],
-    "weight": 0
-  },
-  {
-    "country": "HR",
-    "name": "Hideout Festival",
-    "type": ["music festival"],
-    "location": "Pag",
-    "time": [
-      {
-        "start_date": "2011-07-01",
-        "finish_date": "2011-07-03"
-      },
-      {
-        "start_date": "2012-06-29",
-        "finish_date": "2012-07-01"
-      },
-      {
-        "start_date": "2013-07-03",
-        "finish_date": "2013-07-05"
-      },
-      {
-        "start_date": "2014-06-30",
-        "finish_date": "2014-07-03"
-      },
-      {
-        "start_date": "2015-06-28",
-        "finish_date": "2015-06-02"
-      },
-      {
-        "start_date": "2016-06-26",
-        "finish_date": "2016-06-30"
-      },
-      {
-        "start_date": "2017-06-26",
-        "finish_date": "2017-06-30"
-      },
-      {
-        "start_date": "2018-06-25",
-        "finish_date": "2018-06-29"
-      },
-      {
-        "start_date": "2019-07-01",
-        "finish_date": "2019-07-05"
-      },
-      {
-        "start_date": null,
-        "finish_date": null
-      },
-      {
-        "start_date": "2021-09-04",
-        "finish_date": "2021-09-08"
-      },
-      {
-        "start_date": "2022-07-08",
-        "finish_date": "2022-07-10"
-      },
-      {
-        "start_date": "2023-06-25",
-        "finish_date": "2023-06-29"
-      },
-      {
-        "start_date": "2024-06-23",
-        "finish_date": "2024-06-27"
-      }
-    ],
-    "keywords": [
-      "hideout festival",
-      "pag hrvatska",
-      "hrvatska festival",
-      "croatia festival"
-    ],
-    "weight": 0
-  },
-  {
-    "country": "HR",
-    "name": "Ultra Europe Festival",
-    "type": ["music festival"],
-    "location": "Split",
-    "time": [
-      {
-        "start_date": "2013-07-12",
-        "finish_date": "2013-07-13"
-      },
-      {
-        "start_date": "2014-07-11",
-        "finish_date": "2014-07-13"
-      },
-      {
-        "start_date": "2015-07-09",
-        "finish_date": "2015-07-15"
-      },
-      {
-        "start_date": "2016-07-14",
-        "finish_date": "2016-07-20"
-      },
-      {
-        "start_date": "2017-07-14",
-        "finish_date": "2017-07-16"
-      },
-      {
-        "start_date": "2018-07-05",
-        "finish_date": "2018-07-11"
-      },
-      {
-        "start_date": "2018-07-12",
-        "finish_date": "2018-07-14"
-      },
-      {
-        "start_date": "2019-07-12",
-        "finish_date": "2019-07-14"
-      },
-      {
-        "start_date": null,
-        "finish_date": null
-      },
-      {
-        "start_date": null,
-        "finish_date": null
-      },
-      {
-        "start_date": "2022-07-08",
-        "finish_date": "2022-07-10"
-      },
-      {
-        "start_date": "2023-07-07",
-        "finish_date": "2023-07-09"
-      }
-    ],
-    "keywords": [
-      "ultra europe festival",
-      "split festival",
-      "hrvatska festival",
-      "croatia festival",
-      "electronic festival split",
-      "dance festival split",
-      "techno festival split"
-    ],
-    "weight": 0
-  },
-  {
-    "country": "HR",
-    "name": "Croatia Summer Salsa Festival",
-    "type": ["dance festival", "music festival"],
-    "location": "Rovinj",
-    "time": [
-      {
-        "start_date": "",
-        "finish_date": ""
-      }
-    ],
-    "keywords": [
-      "croatia summer salsa festival",
-      "rovinj festival",
-      "rovinj hrvatska",
-      "hrvatska festival",
-      "croatia festival"
-    ],
-    "weight": 0
-  },
-  {
-    "country": "HR",
-    "name": "Seasplash Festival",
-    "type": ["music festival"],
-    "location": "Pula",
-    "time": ["Aug"],
-    "keywords": [
-      "seasplash festival",
-      "pula festival",
-      "punta christo",
-      "croatia festival"
-    ],
     "weight": 0
   },
   {
@@ -535,7 +270,12 @@
     "name": "Rijeka Advent",
     "type": ["cultural festival"],
     "location": "Rijeka",
-    "time": ["Nov", "Dec", "Jan"],
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
     "keywords": [
       "rijeka advent",
       "croatia new year events",
@@ -549,7 +289,12 @@
     "name": "CEZ Moto Championship",
     "type": ["car race"],
     "location": "Rijeka",
-    "time": ["Jul", "Aug"],
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
     "keywords": [
       "rijeka moto championship",
       "rijeka utrke",
@@ -563,7 +308,12 @@
     "name": "Alpe Adria International Motorcycle Championship",
     "type": ["car race"],
     "location": "Rijeka",
-    "time": ["May"],
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
     "keywords": [
       "rijeka moto championship",
       "rijeka utrke",
@@ -576,7 +326,12 @@
     "name": "Ljeto na Gradini",
     "type": ["cultural festival", "theatre festival", "music festival"],
     "location": "Rijeka",
-    "time": ["Jun", "Jul", "Aug"],
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
     "keywords": ["ljeto na gradini", "rijeka ljeto na gradini"],
     "weight": 0
   },
@@ -585,37 +340,13 @@
     "name": "Jazz time",
     "type": ["music festival"],
     "location": "Rijeka",
-    "time": ["May", "Jun"],
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
     "keywords": ["jazz time festival", "jazz time rijeka"],
-    "weight": 0
-  },
-  {
-    "country": "HR",
-    "name": "Xistance Festival",
-    "type": ["music festival"],
-    "location": "Novalja",
-    "time": ["Jul"],
-    "keywords": [
-      "xistance festival hrvatska",
-      "xistance festival croatia",
-      "psytrance festival europe",
-      "jadran festivali",
-      "adriatic sea xistance festival"
-    ],
-    "weight": 0
-  },
-  {
-    "country": "SR",
-    "name": "Exit Festival",
-    "type": ["music festival"],
-    "location": "Novi Sad",
-    "time": ["Jul"],
-    "keywords": [
-      "exit srbija",
-      "novi sad festival",
-      "exit festival",
-      "exit serbia"
-    ],
     "weight": 0
   }
 ]
