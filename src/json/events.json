@@ -1,0 +1,352 @@
+[
+  {
+    "country": ["HR", "SI"],
+    "name": "Uskrs",
+    "type": ["cultural holiday"],
+    "location": null,
+    "time": ["Mar", "Apr"],
+    "keywords": [],
+    "weight": 0
+  },
+  {
+    "country": ["HR", "SI"],
+    "name": "Božić",
+    "type": ["cultural holiday"],
+    "location": null,
+    "time": ["Dec", "Jan"],
+    "keywords": [],
+    "weight": 0
+  },
+  {
+    "country": "HR",
+    "name": "Dani Svetog Vida",
+    "type": ["cultural holiday"],
+    "location": "Rijeka",
+    "time": [
+      {
+        "start_date": "2010-06-10",
+        "finish_date": "2010-06-19"
+      },
+      {
+        "start_date": "2011-06-10",
+        "finish_date": "2011-06-17"
+      },
+      {
+        "start_date": "2012-06-12",
+        "finish_date": "2012-06-15"
+      },
+      {
+        "start_date": "2013-06-12",
+        "finish_date": "2013-06-15"
+      },
+      {
+        "start_date": "2014-06-12",
+        "finish_date": "2014-06-15"
+      },
+      {
+        "start_date": "2015-06-12",
+        "finish_date": "2015-06-15"
+      },
+      {
+        "start_date": "2016-06-12",
+        "finish_date": "2016-06-15"
+      },
+      {
+        "start_date": "2017-06-11",
+        "finish_date": "2017-06-17"
+      },
+      {
+        "start_date": "2018-06-11",
+        "finish_date": "2018-06-15"
+      },
+      {
+        "start_date": "2019-06-12",
+        "finish_date": "2019-06-15"
+      },
+      {
+        "start_date": "2020-06-15",
+        "finish_date": "2020-06-15"
+      },
+      {
+        "start_date": "2022-06-11",
+        "finish_date": "2022-06-15"
+      },
+      {
+        "start_date": "2023-06-11",
+        "finish_date": "2023-06-16"
+      }
+    ],
+    "keywords": [
+      "sveti vid rijeka",
+      "dani svetog vida rijeka",
+      "festival duhovne muzike",
+      "festival duhovne glazbe"
+    ],
+    "weight": 0
+  },
+  {
+    "country": "HR",
+    "name": "Riječke ljetne noći",
+    "type": ["music festival", "cultural festival", "theatre festival"],
+    "location": "Rijeka",
+    "time": [
+      {
+        "start_date": "2004-06-18",
+        "finish_date": "2004-07-15"
+      },
+      {
+        "start_date": "2005-06-23",
+        "finish_date": "2005-07-26"
+      },
+      {
+        "start_date": "2006-06-29",
+        "finish_date": "2006-07-27"
+      },
+      {
+        "start_date": "2007-06-05",
+        "finish_date": "2007-07-19"
+      },
+      {
+        "start_date": "2008-06-27",
+        "finish_date": "2008-07-27"
+      },
+      {
+        "start_date": "2009-06-30",
+        "finish_date": "2008-07-23"
+      },
+      {
+        "start_date": "2010-06-29",
+        "finish_date": "2010-07-24"
+      },
+      {
+        "start_date": "2011-06-29",
+        "finish_date": "2011-07-27"
+      },
+      {
+        "start_date": "2012-06-19",
+        "finish_date": "2012-07-24"
+      },
+      {
+        "start_date": "2013-06-30",
+        "finish_date": "2013-07-27"
+      },
+      {
+        "start_date": "2014-07-01",
+        "finish_date": "2014-07-24"
+      },
+      {
+        "start_date": "2015-06-18",
+        "finish_date": "2015-07-18"
+      },
+      {
+        "start_date": "2016-07-01",
+        "finish_date": "2016-07-22"
+      },
+      {
+        "start_date": "2017-06-30",
+        "finish_date": "2017-07-21"
+      },
+      {
+        "start_date": "2018-06-04",
+        "finish_date": "2018-07-18"
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      },
+      {
+        "start_date": null,
+        "finish_date": null
+      }
+    ],
+    "keywords": [
+      "rijecke ljetne noći",
+      "rijecke letnje noci",
+      "rijeka festival"
+    ],
+    "weight": 0
+  },
+  {
+    "country": "HR",
+    "name": "Riječki karneval",
+    "type": ["carnival", "music festival", "theatre festival"],
+    "location": "Rijeka",
+    "time": [
+      {
+        "start_date": "2007-01-17",
+        "finish_date": "2007-02-20"
+      },
+      {
+        "start_date": "2008-01-17",
+        "finish_date": "2008-02-05"
+      },
+      {
+        "start_date": "2009-01-17",
+        "finish_date": "2009-02-24"
+      },
+      {
+        "start_date": "2010-01-17",
+        "finish_date": "2010-02-16"
+      },
+      {
+        "start_date": "2011-01-17",
+        "finish_date": "2011-02-24"
+      },
+      {
+        "start_date": "2012-02-17",
+        "finish_date": "2012-02-22"
+      },
+      {
+        "start_date": "2013-01-17",
+        "finish_date": "2013-02-13"
+      },
+      {
+        "start_date": "2014-01-17",
+        "finish_date": "2014-02-05"
+      },
+      {
+        "start_date": "2015-01-17",
+        "finish_date": "2014-02-18"
+      },
+      {
+        "start_date": "2016-01-17",
+        "finish_date": "2016-02-07"
+      },
+      {
+        "start_date": "2017-01-20",
+        "finish_date": "2017-02-26"
+      },
+      {
+        "start_date": "2018-01-17",
+        "finish_date": "2018-02-14"
+      },
+      {
+        "start_date": "2019-01-17",
+        "finish_date": "2019-02-06"
+      },
+      {
+        "start_date": "2020-01-17",
+        "finish_date": "2020-02-26"
+      },
+      {
+        "start_date": "2021-01-17",
+        "finish_date": "2021-02-14"
+      },
+      {
+        "start_date": "2022-01-17",
+        "finish_date": "2022-02-22"
+      },
+      {
+        "start_date": "2023-01-17",
+        "finish_date": "2023-02-19"
+      },
+      {
+        "start_date": "2024-01-17",
+        "finish_date": "2024-02-14"
+      }
+    ],
+    "keywords": [
+      "rijecki karneval",
+      "rijeka carnival",
+      "croatia carnival",
+      "europe carnival"
+    ],
+    "weight": 0
+  },
+  {
+    "country": "HR",
+    "name": "Rijeka Advent",
+    "type": ["cultural festival"],
+    "location": "Rijeka",
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
+    "keywords": [
+      "rijeka advent",
+      "croatia new year events",
+      "rijeka nova godina",
+      "rijeka new year"
+    ],
+    "weight": 0
+  },
+  {
+    "country": "HR",
+    "name": "CEZ Moto Championship",
+    "type": ["car race"],
+    "location": "Rijeka",
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
+    "keywords": [
+      "rijeka moto championship",
+      "rijeka utrke",
+      "CEZ car race",
+      "rijeka grobnik CEZ car race"
+    ],
+    "weight": 0
+  },
+  {
+    "country": "HR",
+    "name": "Alpe Adria International Motorcycle Championship",
+    "type": ["car race"],
+    "location": "Rijeka",
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
+    "keywords": [
+      "rijeka moto championship",
+      "rijeka utrke",
+      "alpe adria moto championship"
+    ],
+    "weight": 0
+  },
+  {
+    "country": "HR",
+    "name": "Ljeto na Gradini",
+    "type": ["cultural festival", "theatre festival", "music festival"],
+    "location": "Rijeka",
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
+    "keywords": ["ljeto na gradini", "rijeka ljeto na gradini"],
+    "weight": 0
+  },
+  {
+    "country": "HR",
+    "name": "Jazz time",
+    "type": ["music festival"],
+    "location": "Rijeka",
+    "time": [
+      {
+        "start_date": "",
+        "finish_date": ""
+      }
+    ],
+    "keywords": ["jazz time festival", "jazz time rijeka"],
+    "weight": 0
+  }
+]
