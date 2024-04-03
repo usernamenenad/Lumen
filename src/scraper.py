@@ -21,7 +21,7 @@ def task(country: str, language: str, value: str) -> None:
         kw_list=[value], timeframe=f"{startdate.date()} {enddate.date()}"
     )
     df = trend.interest_over_time()
-    df.to_json(f"../datasets/json_queries/{value}_{country}.json", orient="index")
+    df.to_json(f"HOCEMO LI SCRAPEOVATI ISTA", orient="index")
 
 
 if __name__ == "__main__":
