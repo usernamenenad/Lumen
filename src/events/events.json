@@ -11,8 +11,7 @@
         "start_date": "2009-04-12",
         "finish_date": "2009-04-12"
       }
-    ],
-    "keywords": []
+    ]
   },
   {
     "name": "Božić",
@@ -26,8 +25,7 @@
         "start_date": "2009-12-25",
         "finish_date": "2009-12-25"
       }
-    ],
-    "keywords": []
+    ]
   },
   {
     "name": "Dani Svetog Vida",
@@ -41,13 +39,7 @@
         "start_date": "2009-06-10",
         "finish_date": "2009-06-17"
       }
-    ],
-    "keywords": [
-      "sveti vid rijeka",
-      "dani svetog vida rijeka",
-      "festival duhovne muzike",
-      "festival duhovne glazbe"
-    ]
+    ]  
   },
   {
     "name": "Riječke ljetne noći",
@@ -61,11 +53,7 @@
         "start_date": "2009-06-30",
         "finish_date": "2008-07-23"
       }
-    ],
-    "keywords": [
-      "rijecke ljetne noći",
-      "rijeka festival"
-    ]
+    ]   
   },
   {
     "name": "Riječki karneval",
@@ -79,12 +67,118 @@
         "start_date": "2009-01-17",
         "finish_date": "2009-02-24"
       }
-    ],
-    "keywords": [
-      "rijecki karneval",
-      "rijeka carnival",
-      "croatia carnival",
-      "europe carnival"
+    ]
+  },
+  {
+    "name": "Ri Rock Festival",
+    "type": ["music festival"],
+    "date": [
+      {
+        "start_date": "2008-12-05",
+        "finish_date": "2008-12-13"
+      },
+      {
+        "start_date": "2009-12-11",
+        "finish_date": "2009-12-19"
+      }
+    ]
+  },
+  {
+    "name": "Festivak kRik",
+    "type": ["music festival"],
+    "date": [
+      {
+        "start_date": "2008-10-02",
+        "finish_date": "2008-10-11"
+      },
+      {
+        "start_date": "2009-09-20",
+        "finish_date": "2008-09-29"
+      }
+    ]
+  },
+  {
+    "name": "Major Cities Of Europe - IT Users Group",
+    "type": ["conference"],
+    "date": [
+      {
+        "start_date": "2008-06-09",
+        "finish_date": "2008-06-11"
+      }
+    ]
+  },
+  {
+    "name": "Croatian American Corners Conference",
+    "type": ["conference"],
+    "date": [
+      {
+        "start_date": "2008-09-25",
+        "finish_date": "2008-09-26"
+      }
+    ]
+  },
+  {
+    "name": "International Conference Of Clinical Ethics And Consultation",
+    "type": ["conference"],
+    "date": [
+      {
+        "start_date": "2008-09-05",
+        "finish_date": "2008-09-05"
+      }
+    ]
+  },
+  {
+    "name": "Tempus JEP Project Conference",
+    "type": ["conference"],
+    "date": [
+      {
+        "start_date": "2008-01-24",
+        "finish_date": "2008-01-25"
+      }
+    ]
+  },
+  {
+    "name": "The Brussels 1 Regulation: Challenges For Croatian Judiciary",
+    "type": ["conference"],
+    "date": [
+      {
+        "start_date": "2009-11-13",
+        "finish_date": "2009-11-14"
+      }
+    ]
+  },
+  {
+    "name": "Intertoto Cup",
+    "type": ["sport event"],
+    "date": [
+      {
+        "start_date": "2008-06-21",
+        "finish_date": "2008-06-21"
+      }
+    ]
+  },
+  {
+    "name": "Europa League",
+    "type": ["sport event"],
+    "date": [
+      {
+        "start_date": "2009-07-23",
+        "finish_date": "2009-07-23"
+      },
+      {
+        "start_date": "2009-07-30",
+        "finish_date": "2009-07-30"
+      }
+    ]
+  },
+  {
+    "name": "European Short Course Swimming Championships",
+    "type": ["sport event"],
+    "date": [
+      {
+        "start_date": "2008-12-11",
+        "finish_date": "2008-12-14"
+      }
     ]
   }
 ]
