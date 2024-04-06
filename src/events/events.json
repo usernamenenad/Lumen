@@ -2,13 +2,31 @@
   {
     "name": "Uskrs",
     "type": ["cultural holiday"],
-    "date": ["Mar", "Apr"],
+    "date": [
+      {
+        "start_date": "2008-03-23",
+        "finish_date": "2008-03-23"
+      },
+      {
+        "start_date": "2009-04-12",
+        "finish_date": "2009-04-12"
+      }
+    ],
     "keywords": []
   },
   {
     "name": "Božić",
     "type": ["cultural holiday"],
-    "date": ["Dec", "Jan"],
+    "date": [
+      {
+        "start_date": "2008-12-25",
+        "finish_date": "2008-12-25"
+      },
+      {
+        "start_date": "2009-12-25",
+        "finish_date": "2009-12-25"
+      }
+    ],
     "keywords": []
   },
   {
@@ -68,74 +86,5 @@
       "croatia carnival",
       "europe carnival"
     ]
-  },
-  {
-    "name": "Rijeka Advent",
-    "type": ["cultural festival"],
-    "date": [
-      {
-        "start_date": "",
-        "finish_date": ""
-      }
-    ],
-    "keywords": [
-      "rijeka advent",
-      "croatia new year events",
-      "rijeka nova godina",
-      "rijeka new year"
-    ]
-  },
-  {
-    "name": "CEZ Moto Championship",
-    "type": ["car race"],
-    "date": [
-      {
-        "start_date": "",
-        "finish_date": ""
-      }
-    ],
-    "keywords": [
-      "rijeka moto championship",
-      "rijeka utrke",
-      "CEZ car race",
-      "rijeka grobnik CEZ car race"
-    ]
-  },
-  {
-    "name": "Alpe Adria International Motorcycle Championship",
-    "type": ["car race"],
-    "date": [
-      {
-        "start_date": "",
-        "finish_date": ""
-      }
-    ],
-    "keywords": [
-      "rijeka moto championship",
-      "rijeka utrke",
-      "alpe adria moto championship"
-    ]
-  },
-  {
-    "name": "Ljeto na Gradini",
-    "type": ["cultural festival", "theatre festival", "music festival"],
-    "date": [
-      {
-        "start_date": "",
-        "finish_date": ""
-      }
-    ],
-    "keywords": ["ljeto na gradini", "rijeka ljeto na gradini"]
-  },
-  {
-    "name": "Jazz date",
-    "type": ["music festival"],
-    "date": [
-      {
-        "start_date": "",
-        "finish_date": ""
-      }
-    ],
-    "keywords": ["jazz date festival", "jazz date rijeka"]
   }
 ]
