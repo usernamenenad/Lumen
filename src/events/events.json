@@ -1,43 +1,61 @@
 [
   {
     "name": "Uskrs",
-    "type": ["cultural holiday"],
+    "type": [
+      "cultural holiday"
+    ],
     "date": [
       {
         "start_date": "2008-03-23",
-        "finish_date": "2008-03-23"
+        "finish_date": "2008-03-26"
       },
       {
         "start_date": "2009-04-12",
-        "finish_date": "2009-04-12"
+        "finish_date": "2009-04-14"
       },
       {
         "start_date": "2010-04-04",
-        "finish_date": "2010-04-04"
+        "finish_date": "2010-04-06"
       }
     ]
   },
   {
     "name": "Božić",
-    "type": ["cultural holiday"],
+    "type": [
+      "cultural holiday"
+    ],
     "date": [
       {
         "start_date": "2008-12-25",
-        "finish_date": "2008-12-25"
+        "finish_date": "2008-12-26"
       },
       {
         "start_date": "2009-12-25",
-        "finish_date": "2009-12-25"
+        "finish_date": "2009-12-26"
       },
       {
         "start_date": "2010-12-25",
-        "finish_date": "2010-12-25"
+        "finish_date": "2010-12-26"
+      }
+    ]
+  },
+  {
+    "name": "Bogojavljenje",
+    "type": [
+      "cultural holiday"
+    ],
+    "date": [
+      {
+        "start_date": "2008-01-06",
+        "finish_date": "2008-01-07"
       }
     ]
   },
   {
     "name": "Dani Svetog Vida",
-    "type": ["cultural holiday"],
+    "type": [
+      "cultural holiday"
+    ],
     "date": [
       {
         "start_date": "2008-06-10",
@@ -51,11 +69,155 @@
         "start_date": "2010-06-10",
         "finish_date": "2010-06-15"
       }
-    ]  
+    ]
+  },
+  {
+    "name": "Praznik rada",
+    "type": [
+      "cultural holiday"
+    ],
+    "date": [
+      {
+        "start_date": "2008-05-01",
+        "finish_date": "2008-05-02"
+      },
+      {
+        "start_date": "2009-05-01",
+        "finish_date": "2009-05-02"
+      },
+      {
+        "start_date": "2010-05-01",
+        "finish_date": "2010-05-02"
+      }
+    ]
+  },
+  {
+    "name": "Tijelovo",
+    "type": [
+      "cultural holiday"
+    ],
+    "date": [
+      {
+        "start_date": "2008-05-22",
+        "finish_date": "2008-05-23"
+      },
+      {
+        "start_date": "2009-06-11",
+        "finish_date": "2009-06-22"
+      },
+      {
+        "start_date": "2010-06-03",
+        "finish_date": "2010-06-24"
+      }
+    ]
+  },
+  {
+    "name": "Velika Gospa",
+    "type": [
+      "cultural holiday"
+    ],
+    "date": [
+      {
+        "start_date": "2008-08-15",
+        "finish_date": "2008-08-16"
+      },
+      {
+        "start_date": "2009-08-15",
+        "finish_date": "2009-08-16"
+      },
+      {
+        "start_date": "2010-08-15",
+        "finish_date": "2010-08-16"
+      }
+    ]
+  },
+  {
+    "name": "Dan drzavnosti Hrvatske",
+    "type": [
+      "cultural holiday"
+    ],
+    "date": [
+      {
+        "start_date": "2008-06-25",
+        "finish_date": "2008-06-26"
+      },
+      {
+        "start_date": "2009-06-25",
+        "finish_date": "2009-06-26"
+      },
+      {
+        "start_date": "2010-06-25",
+        "finish_date": "2010-06-26"
+      }
+    ]
+  },
+  {
+    "name": "Dan pobjede i domovinske zahvalnosti",
+    "type": [
+      "cultural holiday"
+    ],
+    "date": [
+      {
+        "start_date": "2008-08-05",
+        "finish_date": "2008-08-06"
+      },
+      {
+        "start_date": "2009-08-05",
+        "finish_date": "2009-08-06"
+      },
+      {
+        "start_date": "2010-08-05",
+        "finish_date": "2010-08-06"
+      }
+    ]
+  },
+  {
+    "name": "Dan neovisnosti",
+    "type": [
+      "cultural holiday"
+    ],
+    "date": [
+      {
+        "start_date": "2008-10-08",
+        "finish_date": "2008-12-09"
+      },
+      {
+        "start_date": "2009-10-08",
+        "finish_date": "2009-12-09"
+      },
+      {
+        "start_date": "2010-10-08",
+        "finish_date": "2010-12-09"
+      }
+    ]
+  },
+  {
+    "name": "Svi Sveti",
+    "type": [
+      "cultural holiday"
+    ],
+    "date": [
+      {
+        "start_date": "2008-11-01",
+        "finish_date": "2008-11-02"
+      },
+      {
+        "start_date": "2009-11-01",
+        "finish_date": "2009-11-02"
+      },
+      {
+        "start_date": "2010-11-01",
+        "finish_date": "2010-11-02"
+      }
+    ]
   },
   {
     "name": "Riječke ljetne noći",
-    "type": ["music festival", "cultural festival", "theatre festival"],
+    "type": [
+      "music festival",
+      "cultural festival",
+      "theatre festival"
+    ],
     "date": [
       {
         "start_date": "2008-06-27",
@@ -69,11 +231,15 @@
         "start_date": "2010-06-29",
         "finish_date": "2010-07-24"
       }
-    ]   
+    ]
   },
   {
     "name": "Riječki karneval",
-    "type": ["carnival", "music festival", "theatre festival"],
+    "type": [
+      "carnival",
+      "music festival",
+      "theatre festival"
+    ],
     "date": [
       {
         "start_date": "2008-01-17",
@@ -90,8 +256,30 @@
     ]
   },
   {
+    "name": "Hartera Festival",
+    "type": [
+      "music festival"
+    ],
+    "date": [
+      {
+        "start_date": "2008-06-13",
+        "finish_date": "2008-06-14"
+      },
+      {
+        "start_date": "2009-06-11",
+        "finish_date": "2009-06-12"
+      },
+      {
+        "start_date": "2010-06-10",
+        "finish_date": "2010-06-12"
+      }
+    ]
+  },
+  {
     "name": "Ri Rock Festival",
-    "type": ["music festival"],
+    "type": [
+      "music festival"
+    ],
     "date": [
       {
         "start_date": "2008-12-05",
@@ -109,7 +297,9 @@
   },
   {
     "name": "Festivak kRik",
-    "type": ["music festival"],
+    "type": [
+      "music festival"
+    ],
     "date": [
       {
         "start_date": "2008-10-02",
@@ -126,8 +316,30 @@
     ]
   },
   {
+    "name": "Jazz Time Festival",
+    "type": [
+      "music festival"
+    ],
+    "date": [
+      {
+        "start_date": "2008-05-09",
+        "finish_date": "2008-05-14"
+      },
+      {
+        "start_date": "2009-05-11",
+        "finish_date": "2009-05-16"
+      },
+      {
+        "start_date": "2010-05-03",
+        "finish_date": "2010-05-08"
+      }
+    ]
+  },
+  {
     "name": "Major Cities Of Europe - IT Users Group",
-    "type": ["conference"],
+    "type": [
+      "conference"
+    ],
     "date": [
       {
         "start_date": "2008-06-09",
@@ -137,7 +349,9 @@
   },
   {
     "name": "Croatian American Corners Conference",
-    "type": ["conference"],
+    "type": [
+      "conference"
+    ],
     "date": [
       {
         "start_date": "2008-09-25",
@@ -147,7 +361,9 @@
   },
   {
     "name": "International Conference Of Clinical Ethics And Consultation",
-    "type": ["conference"],
+    "type": [
+      "conference"
+    ],
     "date": [
       {
         "start_date": "2008-09-05",
@@ -157,7 +373,9 @@
   },
   {
     "name": "Tempus JEP Project Conference",
-    "type": ["conference"],
+    "type": [
+      "conference"
+    ],
     "date": [
       {
         "start_date": "2008-01-24",
@@ -167,7 +385,9 @@
   },
   {
     "name": "The Brussels 1 Regulation: Challenges For Croatian Judiciary",
-    "type": ["conference"],
+    "type": [
+      "conference"
+    ],
     "date": [
       {
         "start_date": "2009-11-13",
@@ -177,7 +397,9 @@
   },
   {
     "name": "Intertoto Cup",
-    "type": ["sport event"],
+    "type": [
+      "sport event"
+    ],
     "date": [
       {
         "start_date": "2008-06-21",
@@ -187,7 +409,9 @@
   },
   {
     "name": "Europa League",
-    "type": ["sport event"],
+    "type": [
+      "sport event"
+    ],
     "date": [
       {
         "start_date": "2009-07-23",
@@ -201,7 +425,9 @@
   },
   {
     "name": "European Short Course Swimming Championships",
-    "type": ["sport event"],
+    "type": [
+      "sport event"
+    ],
     "date": [
       {
         "start_date": "2008-12-11",
@@ -211,7 +437,9 @@
   },
   {
     "name": "International Friendly Football Match",
-    "type": ["sport event"],
+    "type": [
+      "sport event"
+    ],
     "date": [
       {
         "start_date": "2008-05-24",
@@ -222,5 +450,35 @@
         "finish_date": "2009-10-08"
       }
     ]
+  },
+  {
+    "name": "Rijeka Open Tennis Tournament",
+    "type": [
+      "sport event"
+    ],
+    "date": [
+      {
+        "start_date": "2008-05-05",
+        "finish_date": "2008-05-11"
+      },
+      {
+        "start_date": "2009-06-29",
+        "finish_date": "2009-07-05"
+      },
+      {
+        "start_date": "2010-09-06",
+        "finish_date": "2010-09-12"
+      }
+    ]
+  },
+  {
+    "name": "Waterpolo Europe League Final Four Tournament",
+    "type": [
+      "sport event"
+    ],
+    "date": {
+      "start_date": "2009-05-22",
+      "finish_date": "2009-05-23"
+    }
   }
 ]
