@@ -476,9 +476,11 @@
     "type": [
       "sport event"
     ],
-    "date": {
-      "start_date": "2009-05-22",
-      "finish_date": "2009-05-23"
-    }
+    "date": [
+      {
+        "start_date": "2009-05-22",
+        "finish_date": "2009-05-23"
+      }
+    ]
   }
 ]
