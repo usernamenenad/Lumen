@@ -1,5 +1,4 @@
 # Lumen
----
 
 ClosedLoop Lumen takmičenje
 --- 
